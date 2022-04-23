@@ -1,0 +1,25 @@
+{
+  "name": "logicals_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaume-rodier/exercises_js.git"
+  },
+  "author": "Guillaume Rodier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaume-rodier/exercises_js/issues"
+  },
+  "homepage": "https://github.com/guillaume-rodier/exercises_js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
