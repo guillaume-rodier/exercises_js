@@ -5,6 +5,7 @@
   "main": "first.js",
   "scripts": {
     "test": "jest",
+    "test_coveraged": "jest --coverage",
     "lint": "eslint src/js"
   },
   "repository": {
