@@ -20,6 +20,8 @@ function forgottenLetter(letterArray) {
     return forgottenLetters;
 };
 
+module.exports = forgottenLetter;
+
 console.log("#########################################");
 console.log("Some test of first exercise");
 console.log("#########################################");
